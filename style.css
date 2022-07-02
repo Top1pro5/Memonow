@@ -1,0 +1,95 @@
+body {
+    font-family: sans-serif;
+}
+
+.rep{
+    background-color: black ;
+    color: white;
+    display: flex;
+    justify-content: space-around ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pronas{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ron{
+    height: 250px;
+    width: 300px;
+}
+
+h2{
+    text-align: center;
+}
+
+.nonono{
+    background-color: gray ;
+    margin: 10px;
+    text-align: center;
+    font-weight: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.gotoreality{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.realynega{
+    height: 250px;
+    width: 300px;
+}
+
+h4{
+    text-align: center;
+}
+
+.ok{
+    border-radius: 40px;
+    width: 100px;
+}
+
+.wersus{
+    display: flex;
+    justify-content: flex-start;
+    margin: 50px;
+    padding: 20px;
+    background-color: aqua ;
+
+    text-align: center;
+    font-weight: 20px;
+    padding-bottom: 20px;
+    color: blue;
+}  
+
+.vidguki{
+}
+
+header{
+    background-image: url(https://learn.logikaschool.com/uploads/student/1055011/19-1655907599.jpg);
+    text-align: center;
+    color: red;
+    height: 900PX;
+    background-size: cover;
+}
+
+h3{
+    text-align: center;
+}
+
+footer{
+    background-color: gray;
+}
+
+h5{
+    color: white;
+}
+
+.ted{
+    height: 100px;
+}
